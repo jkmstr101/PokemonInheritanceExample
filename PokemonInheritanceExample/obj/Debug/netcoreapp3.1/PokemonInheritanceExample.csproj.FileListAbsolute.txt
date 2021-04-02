@@ -1,0 +1,13 @@
+C:\Users\jkmst\Documents\GitHub\PokemonInheritanceExample\PokemonInheritanceExample\bin\Debug\netcoreapp3.1\PokemonInheritanceExample.exe
+C:\Users\jkmst\Documents\GitHub\PokemonInheritanceExample\PokemonInheritanceExample\bin\Debug\netcoreapp3.1\PokemonInheritanceExample.deps.json
+C:\Users\jkmst\Documents\GitHub\PokemonInheritanceExample\PokemonInheritanceExample\bin\Debug\netcoreapp3.1\PokemonInheritanceExample.runtimeconfig.json
+C:\Users\jkmst\Documents\GitHub\PokemonInheritanceExample\PokemonInheritanceExample\bin\Debug\netcoreapp3.1\PokemonInheritanceExample.runtimeconfig.dev.json
+C:\Users\jkmst\Documents\GitHub\PokemonInheritanceExample\PokemonInheritanceExample\bin\Debug\netcoreapp3.1\PokemonInheritanceExample.dll
+C:\Users\jkmst\Documents\GitHub\PokemonInheritanceExample\PokemonInheritanceExample\bin\Debug\netcoreapp3.1\PokemonInheritanceExample.pdb
+C:\Users\jkmst\Documents\GitHub\PokemonInheritanceExample\PokemonInheritanceExample\obj\Debug\netcoreapp3.1\PokemonInheritanceExample.csprojAssemblyReference.cache
+C:\Users\jkmst\Documents\GitHub\PokemonInheritanceExample\PokemonInheritanceExample\obj\Debug\netcoreapp3.1\PokemonInheritanceExample.AssemblyInfoInputs.cache
+C:\Users\jkmst\Documents\GitHub\PokemonInheritanceExample\PokemonInheritanceExample\obj\Debug\netcoreapp3.1\PokemonInheritanceExample.AssemblyInfo.cs
+C:\Users\jkmst\Documents\GitHub\PokemonInheritanceExample\PokemonInheritanceExample\obj\Debug\netcoreapp3.1\PokemonInheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\jkmst\Documents\GitHub\PokemonInheritanceExample\PokemonInheritanceExample\obj\Debug\netcoreapp3.1\PokemonInheritanceExample.dll
+C:\Users\jkmst\Documents\GitHub\PokemonInheritanceExample\PokemonInheritanceExample\obj\Debug\netcoreapp3.1\PokemonInheritanceExample.pdb
+C:\Users\jkmst\Documents\GitHub\PokemonInheritanceExample\PokemonInheritanceExample\obj\Debug\netcoreapp3.1\PokemonInheritanceExample.genruntimeconfig.cache

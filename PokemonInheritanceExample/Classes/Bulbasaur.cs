@@ -7,13 +7,14 @@ using PokemonInheritanceExample.Interfaces;
 namespace PokemonInheritanceExample.Classes
 {
     class Bulbasaur : Pokemon, ICutable
-    {
-       
+    {           
+
         public Bulbasaur()
         {
             Name = "Bulbasaur";
-            SetType();
             CurrentXP = 0;
+            Type = Types.Grass;
+            BattleCry();
         }
         
         public override void BattleCry()
@@ -24,11 +25,6 @@ namespace PokemonInheritanceExample.Classes
         public override void SetNickname(string s)
         {
              Nickname = s;
-        }
-
-        public override void SetType()
-        {
-            Type = Pokemon.Types.Grass;
         }
 
         public override void SetXPTable()
